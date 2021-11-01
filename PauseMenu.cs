@@ -1,7 +1,6 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
@@ -9,7 +8,6 @@ public class PauseMenu : MonoBehaviour
     public static bool isPaused = false;
     public bool CursoreIsLocked = false;
     public GameObject pauseMenuUI;
-    public string menuScene;
 
     
 
@@ -55,6 +53,8 @@ public class PauseMenu : MonoBehaviour
         Time.timeScale = 0f;
         isPaused = true;
     }
+
+
 
     
 
