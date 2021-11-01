@@ -1,1 +1,2 @@
-# Simple-FPS_Game_Contorller
+# Simple FPS Game Contorller
+THis is a first person controller I have made and use for my games. I have added comments around the whole code and in every script where i thought i need to tell whats happening. I have added comments all around so its easy to understand whats happening in that part of the code. The code is made for Unity Game Engine coded in C# language and free to use and edit. If you have a better solutions for anything in the code please make a pull request or issue in the page telling me. 
