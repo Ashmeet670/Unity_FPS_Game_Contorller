@@ -52,7 +52,7 @@ public class PlayerMove : MonoBehaviour
             currentSpeed = crouchSpeed;
         }
 
-        //Checking if layer i on the ground
+        //Checking if player is on the ground
         isGrounded = Physics.CheckSphere(new Vector3(transform.position.x, transform.position.y - 1, transform.position.z), 0.4f, Ground);
 
 
