@@ -9,4 +9,3 @@ you have a better solutions for anything in the code please make a pull request 
 - Crouch using C
 - Sprint using left-shift
 - Jump using space
-- Player can zoom using V 
